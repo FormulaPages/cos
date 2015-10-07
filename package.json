@@ -1,6 +1,6 @@
 {
   "name": "formula-cos",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "COS function",
   "main": "COS.js",
   "scripts": {
