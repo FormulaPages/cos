@@ -2,7 +2,7 @@
 
 ![CircleCI](https://circleci.com/gh/FormulaPages/cos.svg?style=shield&circle-token=:circle-token)
 
-Calculate inverse cosine 
+Calculate cosine 
 
 ## Syntax
 
