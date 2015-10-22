@@ -4,8 +4,7 @@
   "description": "COS function",
   "main": "COS.js",
   "scripts": {
-    "test": "mocha test",
-    "build": "babel COS.es6 -m umd --out-file COS.js"
+    "test": "mocha test"
   },
   "repository": {
     "type": "git",
